@@ -1,0 +1,16 @@
+<map id="IPlugAPP.h" name="IPlugAPP.h">
+<area shape="rect" id="node2" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="909,379,1020,405"/>
+<area shape="rect" id="node17" href="$_i_plug_base__select_8h_source.html" title="IPlugBase_select.h" alt="" coords="985,80,1119,107"/>
+<area shape="rect" id="node30" href="$_rt_midi_8h.html" title="RtMidi.h" alt="" coords="1659,80,1729,107"/>
+<area shape="rect" id="node3" href="$_i_plug_logger_8h.html" title="IPlug Logging functionailty To trace some arbitrary data: Trace(TRACELOC, &quot;%s:%d&quot;, myStr, myInt); To simply create a trace entry in the log: TRACE; No need to wrap tracer calls in #ifdef TRACER_BUILD because Trace is a no&#45;op unless TRACER_BUILD is defined. " alt="" coords="937,453,1039,480"/>
+<area shape="rect" id="node13" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="793,528,900,555"/>
+<area shape="rect" id="node16" href="$_i_plug_constants_8h.html" title="Constant definitions, magic numbers. " alt="" coords="389,603,512,629"/>
+<area shape="rect" id="node18" href="$_i_plug_base_graphics_8h.html" title="An IPlugBase class for an IPlug plug&#45;in that uses IGraphics for it&#39;s UI. " alt="" coords="979,155,1124,181"/>
+<area shape="rect" id="node25" href="$_i_plug_processor_8h.html" title="The base class for IPlug Audio Processing. " alt="" coords="509,229,632,256"/>
+<area shape="rect" id="node19" href="$_i_plug_base_8h.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="1005,229,1099,256"/>
+<area shape="rect" id="node21" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="666,304,771,331"/>
+<area shape="rect" id="node24" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="1115,453,1237,480"/>
+<area shape="rect" id="node23" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="622,453,708,480"/>
+<area shape="rect" id="node26" href="$_n_chan_delay_8h_source.html" title="NChanDelay.h" alt="" coords="338,304,445,331"/>
+<area shape="rect" id="node27" href="$_i_plug_processor_8cpp_source.html" title="IPlugProcessor.cpp" alt="" coords="220,453,355,480"/>
+</map>

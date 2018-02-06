@@ -1,0 +1,4 @@
+<map id="IKnobControlBase" name="IKnobControlBase">
+<area shape="rect" id="node3" href="$class_i_v_knob_control.html" title="A vector knob control. " alt="" coords="16,155,123,181"/>
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="35,5,103,32"/>
+</map>
